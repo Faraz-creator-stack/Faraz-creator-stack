@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+}
+h1{
+    font-size: 100px;
+}
+button{
+    padding: 10px 20px;
+    font-size: 20px ;
+    color: white;
+    background-color: rgb(59, 166, 209);
+    border-radius: 10px;
+    transition: backgroun-color 1s;
+    cursor: pointer;
+    border: none;
+}
+button:hover{
+    background-color: rgb(15, 15, 168);
+}
